@@ -1,0 +1,7 @@
+{
+  "name": "LensAI - Filter & Watermark Pro",
+  "description": "Professional AI tool for filter extraction, watermark removal, and high-quality image generation across multiple languages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
